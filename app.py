@@ -577,7 +577,7 @@ int main() {
 ]
 
 def main():
-    st.title("C++/Java Collections Comparison Guide")
+    st.title("C++ STL vs Java Collections CheatSheet For DSA")
     st.markdown("---")
     
     for item in data:
